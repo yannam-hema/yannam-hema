@@ -1,5 +1,5 @@
 ## Hi, I'm Hema!  
-Welcome to my coding world, where some days my GitHub calendar is a sea of gray (the official color of “absolutely nothing happening”).  
+Welcome to my coding world, where some days my GitHub calendar is a field of gray squares (the official color of “absolutely nothing happening”).  
 Other days, those little squares turn green—sometimes pale, sometimes deep—depending on whether I’m feeling productive or just hitting “commit” for the thrill of it.
 <!--
 **yannam-hema/yannam-hema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
