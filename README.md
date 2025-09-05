@@ -14,10 +14,6 @@ I'm also excited to explore AI tools and prompt engineering to create smarter an
 *   **Languages**: Java
 *   **Tools & APIs**: Git | Firebase | OpenAI API 
 
-### Projects I've Built
-
-*   **Netflix-GPT**: A movie recommendation app using React, Firebase, and the OpenAI API to give smart suggestions.
-*   **Food Ordering Web App**: A user-friendly interface for ordering food, built with React and Redux for smooth state management.
 
 ### Let's Connect
 
