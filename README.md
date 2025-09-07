@@ -1,5 +1,5 @@
 ## Hi, I'm Hema!  
-Welcome to my coding world
+Welcome to my coding world 👩‍💻
 
 
 I'm a recent Computer Science graduate who loves building clean and user-friendly web applications. 
@@ -12,7 +12,6 @@ I'm also excited to explore AI tools and prompt engineering to create smarter an
 
 *   **Frontend**: React.js | Redux | JavaScript | Tailwind CSS
 *   **Languages**: Java
-*   **Tools & APIs**: Git | Firebase | OpenAI API 
 
 
 ### Let's Connect
