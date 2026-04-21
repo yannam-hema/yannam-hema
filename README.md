@@ -1,19 +1,26 @@
-## Hi, I'm Hema!  
-Welcome to my coding world 👩‍💻
+## Hi, I'm Hema! 👩‍💻  
+Welcome to my coding space  
 
+I'm currently working as an **Associate Engineer (Digital Assurance) at Virtusa**, focusing on **Manual and Automation Testing**  
 
-I'm a recent Computer Science graduate who loves building clean and user-friendly web applications. 
-I'm always curious about new technologies and figuring out how to use them to solve real-world problems.
+I’m learning and growing in:  
+Manual Testing | Selenium | TestNG | API Testing  
 
-Right now, I'm learning Node.js to build my backend skills.
-I'm also excited to explore AI tools and prompt engineering to create smarter and more helpful apps.
+At the same time, I’m not stopping my development journey — continuing with **Node.js** alongside testing  
 
-### My Tech Stack
+I also practice **DSA** to improve my problem-solving  
 
-*   **Frontend**: React.js | Redux | JavaScript | Tailwind CSS
-*   **Languages**: Java
+**My repositories show my work in development, testing, and problem-solving—feel free to check them out**  
 
+---
 
-### Let's Connect
+### My Tech Stack  
 
-*   **LinkedIn**: [linkedin.com/in/yannamhema](https://www.linkedin.com/in/yannamhema)
+**Frontend**: React.js | Redux | JavaScript | Tailwind CSS  
+**Languages**: Java  
+
+---
+
+### Let's Connect  
+
+**LinkedIn**: https://www.linkedin.com/in/yannamhema  
