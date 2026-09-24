@@ -6,9 +6,9 @@ I'm currently working as an **Associate Engineer (Digital Assurance) at Virtusa*
 I’m learning and growing in:  
 Manual Testing | Selenium | TestNG | API Testing  
 
-At the same time, I’m not stopping my development journey — continuing with **Node.js** alongside testing  
+At the same time, I’m not stopping my development journey continuing with **Node.js** alongside testing  
 
-I also practice **DSA** to improve my problem-solving  
+I also practice **DSA** to improve my problem solving  
 
 **My repositories show my work in development, testing, and problem-solving—feel free to check them out**  
 
@@ -18,8 +18,11 @@ I also practice **DSA** to improve my problem-solving
 
 **Frontend**: React.js | Redux | JavaScript | Tailwind CSS  
 **Languages**: Java  
+**Testing**: Manual testing , Automation(Selenium , TestNG)
 
 ---
+### checkout my portfolio
+- https://yannam-hema-portfolio.lovable.app/
 
 ### Let's Connect  
 
