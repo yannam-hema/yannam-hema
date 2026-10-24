@@ -16,11 +16,12 @@ I also practice **DSA** to improve my problem solving
 
 ### My Tech Stack  
 
-**Frontend**: React.js | Redux | JavaScript | Tailwind CSS  
+**Frontend**: React.js | Redux | JavaScript 
 **Languages**: Java  
 **Testing**: Manual testing , Automation(Selenium , TestNG)
 
 ---
+
 ### checkout my portfolio
 - https://yannam-hema-portfolio.lovable.app/
 
