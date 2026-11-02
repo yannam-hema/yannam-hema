@@ -1,5 +1,5 @@
 ## Hi, I'm Hema! 👩‍💻  
-Welcome to my coding space  
+Welcome to my coding space  :)
 
 I'm currently working as an **Associate Engineer at Virtusa**, focusing on **Manual and Automation Testing**  
 
