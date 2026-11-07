@@ -8,7 +8,7 @@ Manual Testing | Selenium | TestNG | API Testing
 
 At the same time, I’m not stopping my development journey continuing with **Node.js** alongside testing  
 
-I also practice **DSA** to improve my problem solving  
+I also practice **DSA** to improve my problem solving skills
 
 **My repositories show my work in development, testing, and problem-solving feel free to check them out**  
 
