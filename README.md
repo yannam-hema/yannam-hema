@@ -1,5 +1,8 @@
 ## Hi, I'm Hema! 👩‍💻  
-Welcome to my coding space  :)
+
+**I'm an engineer who loves exploring ideas, experimenting with technology, and building things that are genuinely useful.**
+
+**Welcome to my coding space  :)**
 
 I'm currently working as an **Associate Engineer at Virtusa**, focusing on **Manual and Automation Testing**  
 
