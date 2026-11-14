@@ -26,6 +26,7 @@ I also practice **DSA** to improve my problem solving skills
 ---
 
 ### checkout my portfolio
+   **Built with lovable**
 - https://yannam-hema-portfolio.lovable.app/
 
 ### Let's Connect  
