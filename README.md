@@ -7,7 +7,7 @@
 I'm currently working as an **Associate Engineer at Virtusa**, focusing on **Manual and Automation Testing**  
 
 I’m learning and growing in:  
-Manual Testing | Selenium | TestNG | API Testing  
+Manual Testing | Automation testing
 
 At the same time, I’m not stopping my development journey continuing with **Node.js** alongside testing  
 
